@@ -4,7 +4,14 @@ body{
 .jumbotron{
         color: #ffffff;
        }
-
+.btn-primary{
+  margin: 5px;
+  padding: 10px;
+}
+.btn-success{
+  margin: 5px;
+  padding: 10px;
+}
 .site-footer
 {
   background-color:#26272b;
