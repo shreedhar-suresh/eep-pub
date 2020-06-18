@@ -1,8 +1,9 @@
 body{
-        background-color: #000;
+        background-color: #fff;
        }
 .jumbotron{
-        color: #ffffff;
+        color: #000000;
+        background-color: #fff;
        }
 .btn-primary{
   margin: 5px;
