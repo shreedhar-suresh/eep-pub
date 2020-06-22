@@ -3,7 +3,7 @@
     background: none;
     color: #fff;
 }
-body{
+body {
     padding-bottom:4.2rem;
    background-image: url(https://rog.asus.com/media/1590510974402.jpg);
     }
@@ -70,7 +70,9 @@ body{
       form .error {
      color: #ff0000;
      }
-     #second{display:none;}
+    
      .navbar{
          margin-bottom: 30px;
      }
+
+    
